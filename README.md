@@ -30,3 +30,18 @@ Switch(config-if)# exit
 hashtag#Networking hashtag#VLAN hashtag#CCNA hashtag#Cisco hashtag#ITInfrastructure hashtag#TechLearning hashtag#NetworkEngineer hashtag#BeginnersGuide hashtag#LabLife hashtag#Cybersecurity
 
 ![image](https://github.com/user-attachments/assets/cdbfa4de-915e-4728-b765-d71541486a2c)
+
+Day 2
+
+🔧 New Skills I’ve Recently Learned 📞💻
+I've been gaining some hands-on experience with voice and network systems recently, and I wanted to share a few things I’ve learned along the way:
+🔐 VPN Installations
+I learned how to install and configure VPNs (Virtual Private Networks) to help users connect securely to internal systems from remote locations. This includes setting up the VPN client, making sure it's authenticated properly, and testing the secure connection.
+📞 VoIP Phones – SIP vs ATA
+I’ve also worked on setting up VoIP (Voice over IP) phones, and I got to understand the difference between two common types:
+•	SIP Phones: These are digital IP phones that connect directly to the network. I learned how to patch the correct ports, provision the phones, and assign them to users using SIP credentials.
+•	ATA Devices (Analog Telephone Adapters): These are used to convert traditional analog phones (POTS lines) to work over VoIP. I worked on tracking the Telephone Number (TN) of the analog line, connecting the ATA, and making sure the setup is protected using lightning protection to avoid electrical damage.
+⚡ It’s been a great learning journey—seeing how modern phone systems work, and how older technologies are being integrated into today’s networks.
+Excited to keep learning and growing in the world of IT and telecommunications!
+#LearningByDoing #VoIP #VPN #Networking #SIP #ATA #ITSkills #Telecom #HandsOnExperience #EntryLevelEngineer
+

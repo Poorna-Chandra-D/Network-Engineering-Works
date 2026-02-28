@@ -82,6 +82,4 @@ This was a great learning experience—seeing how modern IP telephony works whil
 ## Roadmap (Next Topics to Explore)
 - Trunk ports (802.1Q) and VLAN propagation
 - Inter-VLAN routing (Router-on-a-Stick vs L3 switch SVIs)
-- DHCP per VLAN + IP addressing design
-- VoIP VLANs, QoS basics, and voice gateway fundamentals
-- VPN troubleshooting and common authentication issues
+
